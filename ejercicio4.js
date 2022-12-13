@@ -7,4 +7,4 @@ console.log(aplanar([
         [3, 4]
     ],
     [5]
-]));
+])); //se que se podia hacer con la funcion flat(), pero quise medir mis habilidades
